@@ -1,0 +1,11 @@
+=== ANALIZA PERFORMANTA SQL (BEFORE vs AFTER) ===
+
+Rulari per query: 50
+
+Query: Users by username (BEFORE) -> AVG: 3.21 ms
+Query: Meniuri by nume (BEFORE) -> AVG: 2.72 ms
+Query: Rezervari by status (BEFORE) -> AVG: 3.89 ms
+------------------------------
+Query: Users by username (AFTER) -> AVG: 2.63 ms | Improvement: 17.9%
+Query: Meniuri by nume (AFTER) -> AVG: 2.52 ms | Improvement: 7.2%
+Query: Rezervari by status (AFTER) -> AVG: 3.06 ms | Improvement: 21.3%

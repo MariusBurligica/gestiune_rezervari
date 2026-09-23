@@ -1,0 +1,14 @@
+services:
+  mariadb:
+    image: mariadb:11
+    container_name: Reservation_mariadb
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: rootpass
+      MARIADB_DATABASE: Reservation_system
+    ports:
+      - "3307:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+volumes:
+  mariadb_data:

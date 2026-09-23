@@ -1,0 +1,2490 @@
+[
+  {
+    "name": "Pamela Stănescu",
+    "value": 6
+  },
+  {
+    "name": "Teohari Dumitrescu",
+    "value": 5
+  },
+  {
+    "name": "Sever Niță",
+    "value": 4
+  },
+  {
+    "name": "Dalia Ababei",
+    "value": 4
+  },
+  {
+    "name": "Benone Dochioiu",
+    "value": 4
+  },
+  {
+    "name": "Costel Dima",
+    "value": 4
+  },
+  {
+    "name": "Geta Nemeș",
+    "value": 4
+  },
+  {
+    "name": "Roberta Georgescu",
+    "value": 4
+  },
+  {
+    "name": "Venera Dima",
+    "value": 4
+  },
+  {
+    "name": "Ariadna Suciu",
+    "value": 4
+  },
+  {
+    "name": "Profira Ardelean",
+    "value": 4
+  },
+  {
+    "name": "Camelia Stănescu",
+    "value": 4
+  },
+  {
+    "name": "Aurelia Ardelean",
+    "value": 4
+  },
+  {
+    "name": "Costache Ene",
+    "value": 4
+  },
+  {
+    "name": "Emilia Pușcașu",
+    "value": 4
+  },
+  {
+    "name": "Ariana Dobre",
+    "value": 4
+  },
+  {
+    "name": "Maricica Dochioiu",
+    "value": 4
+  },
+  {
+    "name": "Anemona Florea",
+    "value": 4
+  },
+  {
+    "name": "Mihaela Tabacu",
+    "value": 4
+  },
+  {
+    "name": "Ecaterina Dinu",
+    "value": 4
+  },
+  {
+    "name": "Timea Ardelean",
+    "value": 4
+  },
+  {
+    "name": "Pamela Dima",
+    "value": 4
+  },
+  {
+    "name": "Petru Popescu",
+    "value": 4
+  },
+  {
+    "name": "Leana Cristea",
+    "value": 4
+  },
+  {
+    "name": "Nicu Mocanu",
+    "value": 4
+  },
+  {
+    "name": "Svetlana Nistor",
+    "value": 4
+  },
+  {
+    "name": "Luiza Ababei",
+    "value": 4
+  },
+  {
+    "name": "Raul Dobre",
+    "value": 4
+  },
+  {
+    "name": "Florin Oprea",
+    "value": 3
+  },
+  {
+    "name": "Ducu Gheorghiu",
+    "value": 3
+  },
+  {
+    "name": "Caterina Dima",
+    "value": 3
+  },
+  {
+    "name": "Casandra Dumitrescu",
+    "value": 3
+  },
+  {
+    "name": "Augustin Tudor",
+    "value": 3
+  },
+  {
+    "name": "Ladislau Barbu",
+    "value": 3
+  },
+  {
+    "name": "Anatolie Dochioiu",
+    "value": 3
+  },
+  {
+    "name": "Raluca Tabacu",
+    "value": 3
+  },
+  {
+    "name": "Sonia Florea",
+    "value": 3
+  },
+  {
+    "name": "Veta Gheorghiu",
+    "value": 3
+  },
+  {
+    "name": "Marta Stan",
+    "value": 3
+  },
+  {
+    "name": "Bebe Dima",
+    "value": 3
+  },
+  {
+    "name": "Gabi Ene",
+    "value": 3
+  },
+  {
+    "name": "Carol Nistor",
+    "value": 3
+  },
+  {
+    "name": "Carmen Popescu",
+    "value": 3
+  },
+  {
+    "name": "Rada Preda",
+    "value": 3
+  },
+  {
+    "name": "Astrid Stan",
+    "value": 3
+  },
+  {
+    "name": "Daciana Pușcașu",
+    "value": 3
+  },
+  {
+    "name": "Simina Stoica",
+    "value": 3
+  },
+  {
+    "name": "Roxana Nemeș",
+    "value": 3
+  },
+  {
+    "name": "Augustina Dochioiu",
+    "value": 3
+  },
+  {
+    "name": "Matilda Nistor",
+    "value": 3
+  },
+  {
+    "name": "Nichifor Ionescu",
+    "value": 3
+  },
+  {
+    "name": "Zoe Dochioiu",
+    "value": 3
+  },
+  {
+    "name": "Panait Nistor",
+    "value": 3
+  },
+  {
+    "name": "Nicolae Mocanu",
+    "value": 3
+  },
+  {
+    "name": "Dorin Mazilescu",
+    "value": 3
+  },
+  {
+    "name": "Robert Suciu",
+    "value": 3
+  },
+  {
+    "name": "Ieremia Tomescu",
+    "value": 3
+  },
+  {
+    "name": "Crin Dumitrescu",
+    "value": 3
+  },
+  {
+    "name": "Casian Tomescu",
+    "value": 3
+  },
+  {
+    "name": "Marga Popescu",
+    "value": 3
+  },
+  {
+    "name": "Edmond Mocanu",
+    "value": 3
+  },
+  {
+    "name": "Laura Ababei",
+    "value": 3
+  },
+  {
+    "name": "Julia Dima",
+    "value": 3
+  },
+  {
+    "name": "Ecaterina Toma",
+    "value": 3
+  },
+  {
+    "name": "Olimpiu Preda",
+    "value": 3
+  },
+  {
+    "name": "Gențiana Barbu",
+    "value": 3
+  },
+  {
+    "name": "Jasmina Mocanu",
+    "value": 3
+  },
+  {
+    "name": "Casandra Georgescu",
+    "value": 3
+  },
+  {
+    "name": "Aurelian Ene",
+    "value": 3
+  },
+  {
+    "name": "Anabela Popescu",
+    "value": 3
+  },
+  {
+    "name": "Salomea Diaconescu",
+    "value": 3
+  },
+  {
+    "name": "Sinică Stoica",
+    "value": 3
+  },
+  {
+    "name": "Carol Tudor",
+    "value": 3
+  },
+  {
+    "name": "Adelin Dumitrescu",
+    "value": 3
+  },
+  {
+    "name": "Julieta Popescu",
+    "value": 3
+  },
+  {
+    "name": "Beniamin Stănescu",
+    "value": 3
+  },
+  {
+    "name": "Pleșu Diaconescu",
+    "value": 3
+  },
+  {
+    "name": "Emanoil Aanei",
+    "value": 3
+  },
+  {
+    "name": "Aura Dinu",
+    "value": 3
+  },
+  {
+    "name": "Aida Stancu",
+    "value": 3
+  },
+  {
+    "name": "Raluca Stancu",
+    "value": 3
+  },
+  {
+    "name": "Gherghina Niță",
+    "value": 3
+  },
+  {
+    "name": "Ivona Ene",
+    "value": 3
+  },
+  {
+    "name": "Andrei Popescu",
+    "value": 2
+  },
+  {
+    "name": "Lazăr Preda",
+    "value": 2
+  },
+  {
+    "name": "Adelaida Nistor",
+    "value": 2
+  },
+  {
+    "name": "Petrică Nistor",
+    "value": 2
+  },
+  {
+    "name": "Daniel Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Mitică Barbu",
+    "value": 2
+  },
+  {
+    "name": "Marioara Cristea",
+    "value": 2
+  },
+  {
+    "name": "Iosif Nistor",
+    "value": 2
+  },
+  {
+    "name": "Anatolie Barbu",
+    "value": 2
+  },
+  {
+    "name": "Elisabeta Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Angela Nistor",
+    "value": 2
+  },
+  {
+    "name": "Vera Dobre",
+    "value": 2
+  },
+  {
+    "name": "Dimitrina Tudor",
+    "value": 2
+  },
+  {
+    "name": "Adela Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Olga Stănescu",
+    "value": 2
+  },
+  {
+    "name": "Mădălin Marin",
+    "value": 2
+  },
+  {
+    "name": "Iulia Pușcașu",
+    "value": 2
+  },
+  {
+    "name": "Isabela Pop",
+    "value": 2
+  },
+  {
+    "name": "Andrian Aanei",
+    "value": 2
+  },
+  {
+    "name": "Eduard Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Valeriu Diaconu",
+    "value": 2
+  },
+  {
+    "name": "Gina Oprea",
+    "value": 2
+  },
+  {
+    "name": "Virginia Tudor",
+    "value": 2
+  },
+  {
+    "name": "Dorel Gheorghiu",
+    "value": 2
+  },
+  {
+    "name": "Bernard Diaconu",
+    "value": 2
+  },
+  {
+    "name": "Anton Preda",
+    "value": 2
+  },
+  {
+    "name": "Cleopatra Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Beatrice Tomescu",
+    "value": 2
+  },
+  {
+    "name": "Eusebiu Suciu",
+    "value": 2
+  },
+  {
+    "name": "Lazăr Preda",
+    "value": 2
+  },
+  {
+    "name": "Ruxandra Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Narcis Popa",
+    "value": 2
+  },
+  {
+    "name": "Gabriela Ionescu",
+    "value": 2
+  },
+  {
+    "name": "Luminița Dima",
+    "value": 2
+  },
+  {
+    "name": "Manole Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Valter Tudor",
+    "value": 2
+  },
+  {
+    "name": "Teofil Ababei",
+    "value": 2
+  },
+  {
+    "name": "Ionelia Ene",
+    "value": 2
+  },
+  {
+    "name": "Vasilică Tudor",
+    "value": 2
+  },
+  {
+    "name": "Geta Toma",
+    "value": 2
+  },
+  {
+    "name": "Simion Albu",
+    "value": 2
+  },
+  {
+    "name": "Dumitrana Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Vlaicu Stancu",
+    "value": 2
+  },
+  {
+    "name": "Ghiță Dima",
+    "value": 2
+  },
+  {
+    "name": "Flavia Preda",
+    "value": 2
+  },
+  {
+    "name": "Amanda Popescu",
+    "value": 2
+  },
+  {
+    "name": "Vladimir Niță",
+    "value": 2
+  },
+  {
+    "name": "Haralambie Cristea",
+    "value": 2
+  },
+  {
+    "name": "Zeno Niță",
+    "value": 2
+  },
+  {
+    "name": "Constanța Marin",
+    "value": 2
+  },
+  {
+    "name": "Lia Pop",
+    "value": 2
+  },
+  {
+    "name": "Antonie Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Antoaneta Popa",
+    "value": 2
+  },
+  {
+    "name": "Georgia Tudor",
+    "value": 2
+  },
+  {
+    "name": "Visarion Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Tincuța Marin",
+    "value": 2
+  },
+  {
+    "name": "Heracleea Dobre",
+    "value": 2
+  },
+  {
+    "name": "Dominic Nemeș",
+    "value": 2
+  },
+  {
+    "name": "Augustina Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Maia Nistor",
+    "value": 2
+  },
+  {
+    "name": "Aurora Stan",
+    "value": 2
+  },
+  {
+    "name": "Lucreția Ababei",
+    "value": 2
+  },
+  {
+    "name": "Eugen Popa",
+    "value": 2
+  },
+  {
+    "name": "Delia Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Ilie Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Irinel Tabacu",
+    "value": 2
+  },
+  {
+    "name": "Carina Dinu",
+    "value": 2
+  },
+  {
+    "name": "Cristea Ene",
+    "value": 2
+  },
+  {
+    "name": "Demetra Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Eftimie Dochioiu",
+    "value": 2
+  },
+  {
+    "name": "Leontin Voinea",
+    "value": 2
+  },
+  {
+    "name": "Alistar Stan",
+    "value": 2
+  },
+  {
+    "name": "Elvira Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Rozalia Cristea",
+    "value": 2
+  },
+  {
+    "name": "Gheorghiță Dima",
+    "value": 2
+  },
+  {
+    "name": "Corneliu Stănescu",
+    "value": 2
+  },
+  {
+    "name": "Svetlana Eftimie",
+    "value": 2
+  },
+  {
+    "name": "Sever Ababei",
+    "value": 2
+  },
+  {
+    "name": "Heracleea Dobre",
+    "value": 2
+  },
+  {
+    "name": "Anemona Albu",
+    "value": 2
+  },
+  {
+    "name": "Melina Pop",
+    "value": 2
+  },
+  {
+    "name": "Marinela Oprea",
+    "value": 2
+  },
+  {
+    "name": "Sergiu Voinea",
+    "value": 2
+  },
+  {
+    "name": "Heracleea Georgescu",
+    "value": 2
+  },
+  {
+    "name": "Georgiana Manole",
+    "value": 2
+  },
+  {
+    "name": "Norman Stancu",
+    "value": 2
+  },
+  {
+    "name": "Simina Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Eusebiu Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Jan Popescu",
+    "value": 2
+  },
+  {
+    "name": "Roza Eftimie",
+    "value": 2
+  },
+  {
+    "name": "Sava Cristea",
+    "value": 2
+  },
+  {
+    "name": "Arina Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Teodor Manole",
+    "value": 2
+  },
+  {
+    "name": "Ion Stoica",
+    "value": 2
+  },
+  {
+    "name": "Simi Niță",
+    "value": 2
+  },
+  {
+    "name": "Miron Barbu",
+    "value": 2
+  },
+  {
+    "name": "Luciana Tudor",
+    "value": 2
+  },
+  {
+    "name": "Răzvan Tomescu",
+    "value": 2
+  },
+  {
+    "name": "Cosmin Florea",
+    "value": 2
+  },
+  {
+    "name": "Constantina Albu",
+    "value": 2
+  },
+  {
+    "name": "Gianina Popa",
+    "value": 2
+  },
+  {
+    "name": "Iosefina Cristea",
+    "value": 2
+  },
+  {
+    "name": "Mara Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Melania Tudor",
+    "value": 2
+  },
+  {
+    "name": "Jean Tomescu",
+    "value": 2
+  },
+  {
+    "name": "Vasile Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Vlad Marin",
+    "value": 2
+  },
+  {
+    "name": "Steliana Dobre",
+    "value": 2
+  },
+  {
+    "name": "Francesca Ababei",
+    "value": 2
+  },
+  {
+    "name": "Vladimir Stoica",
+    "value": 2
+  },
+  {
+    "name": "Ionel Nistor",
+    "value": 2
+  },
+  {
+    "name": "Georgel Diaconescu",
+    "value": 2
+  },
+  {
+    "name": "Vanesa Cristea",
+    "value": 2
+  },
+  {
+    "name": "Frusina Popa",
+    "value": 2
+  },
+  {
+    "name": "Amza Popescu",
+    "value": 2
+  },
+  {
+    "name": "Melina Dima",
+    "value": 2
+  },
+  {
+    "name": "Iustinian Popescu",
+    "value": 2
+  },
+  {
+    "name": "Janina Toma",
+    "value": 2
+  },
+  {
+    "name": "Daciana Gheorghiu",
+    "value": 2
+  },
+  {
+    "name": "Minodora Pop",
+    "value": 2
+  },
+  {
+    "name": "Eliza Niță",
+    "value": 2
+  },
+  {
+    "name": "Olimpian Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Magdalena Mocanu",
+    "value": 2
+  },
+  {
+    "name": "Cerasela Diaconescu",
+    "value": 2
+  },
+  {
+    "name": "Gențiana Dobre",
+    "value": 2
+  },
+  {
+    "name": "Crenguța Stănescu",
+    "value": 2
+  },
+  {
+    "name": "Domnica Popescu",
+    "value": 2
+  },
+  {
+    "name": "Florin Ababei",
+    "value": 2
+  },
+  {
+    "name": "Ilie Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Crenguța Popescu",
+    "value": 2
+  },
+  {
+    "name": "Elvira Pop",
+    "value": 2
+  },
+  {
+    "name": "Dumitra Dumitrescu",
+    "value": 2
+  },
+  {
+    "name": "Carina Ababei",
+    "value": 2
+  },
+  {
+    "name": "Bogdan Nistor",
+    "value": 2
+  },
+  {
+    "name": "Corvin Oprea",
+    "value": 2
+  },
+  {
+    "name": "Eliza Diaconu",
+    "value": 2
+  },
+  {
+    "name": "Ernest Barbu",
+    "value": 2
+  },
+  {
+    "name": "Iolanda Niță",
+    "value": 2
+  },
+  {
+    "name": "Mara Dinu",
+    "value": 2
+  },
+  {
+    "name": "Florina Eftimie",
+    "value": 2
+  },
+  {
+    "name": "Rareș Popescu",
+    "value": 2
+  },
+  {
+    "name": "Eduard Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Ducu Albu",
+    "value": 2
+  },
+  {
+    "name": "Nichifor Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Svetlana Niță",
+    "value": 2
+  },
+  {
+    "name": "Grațian Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Marcel Popa",
+    "value": 2
+  },
+  {
+    "name": "Achim Ionescu",
+    "value": 2
+  },
+  {
+    "name": "Radu Tabacu",
+    "value": 2
+  },
+  {
+    "name": "Liana Oprea",
+    "value": 2
+  },
+  {
+    "name": "Teohari Diaconu",
+    "value": 2
+  },
+  {
+    "name": "Aneta Voinea",
+    "value": 2
+  },
+  {
+    "name": "Miruna Nistor",
+    "value": 2
+  },
+  {
+    "name": "Marga Preda",
+    "value": 2
+  },
+  {
+    "name": "Codrina Aanei",
+    "value": 2
+  },
+  {
+    "name": "Erica Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Simona Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Nicuță Georgescu",
+    "value": 2
+  },
+  {
+    "name": "Zenovia Ardelean",
+    "value": 2
+  },
+  {
+    "name": "Horia Manole",
+    "value": 2
+  },
+  {
+    "name": "Simona Popescu",
+    "value": 2
+  },
+  {
+    "name": "Șerban Georgescu",
+    "value": 2
+  },
+  {
+    "name": "Lazăr Eftimie",
+    "value": 2
+  },
+  {
+    "name": "Haralambie Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Severina Popa",
+    "value": 2
+  },
+  {
+    "name": "Radu Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Xenia Stan",
+    "value": 2
+  },
+  {
+    "name": "Liana Ionescu",
+    "value": 2
+  },
+  {
+    "name": "Cătălin Pop",
+    "value": 2
+  },
+  {
+    "name": "Carmen Georgescu",
+    "value": 2
+  },
+  {
+    "name": "Horia Ioniță",
+    "value": 2
+  },
+  {
+    "name": "Iasmina Manole",
+    "value": 2
+  },
+  {
+    "name": "Ghenadie Stancu",
+    "value": 2
+  },
+  {
+    "name": "Ștefan Ababei",
+    "value": 2
+  },
+  {
+    "name": "George Dima",
+    "value": 2
+  },
+  {
+    "name": "Casandra Mazilescu",
+    "value": 2
+  },
+  {
+    "name": "Denisa Pop",
+    "value": 2
+  },
+  {
+    "name": "Alexandrina Popa",
+    "value": 2
+  },
+  {
+    "name": "Timotei Ionescu",
+    "value": 2
+  },
+  {
+    "name": "Gabriel Pușcașu",
+    "value": 2
+  },
+  {
+    "name": "Semenica Voinea",
+    "value": 2
+  },
+  {
+    "name": "Ilarie Albu",
+    "value": 2
+  },
+  {
+    "name": "Marga Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Costin Stancu",
+    "value": 1
+  },
+  {
+    "name": "Edmond Nistor",
+    "value": 1
+  },
+  {
+    "name": "Iancu Niță",
+    "value": 1
+  },
+  {
+    "name": "Iustinian Albu",
+    "value": 1
+  },
+  {
+    "name": "Vladimir Stoica",
+    "value": 1
+  },
+  {
+    "name": "Rozalia Aanei",
+    "value": 1
+  },
+  {
+    "name": "Lascăr Ababei",
+    "value": 1
+  },
+  {
+    "name": "Jana Voinea",
+    "value": 1
+  },
+  {
+    "name": "Iolanda Dinu",
+    "value": 1
+  },
+  {
+    "name": "Horea Tudor",
+    "value": 1
+  },
+  {
+    "name": "Ramona Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Timea Aanei",
+    "value": 1
+  },
+  {
+    "name": "Teona Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Stanca Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Horațiu Dobre",
+    "value": 1
+  },
+  {
+    "name": "George Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Adelaida Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Dacian Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Teofil Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Corina Nistor",
+    "value": 1
+  },
+  {
+    "name": "Adonis Aanei",
+    "value": 1
+  },
+  {
+    "name": "Cleopatra Aanei",
+    "value": 1
+  },
+  {
+    "name": "Iosif Cristea",
+    "value": 1
+  },
+  {
+    "name": "Venera Toma",
+    "value": 1
+  },
+  {
+    "name": "Olimpia Nistor",
+    "value": 1
+  },
+  {
+    "name": "David Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Silvia Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Iacob Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Blanduzia Nistor",
+    "value": 1
+  },
+  {
+    "name": "Amelia Florea",
+    "value": 1
+  },
+  {
+    "name": "Mihai Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Lidia Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Gheorghe Niță",
+    "value": 1
+  },
+  {
+    "name": "Ileana Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Inocențiu Pop",
+    "value": 1
+  },
+  {
+    "name": "Adina Ioniță",
+    "value": 1
+  },
+  {
+    "name": "Flaviu Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Frederic Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Tiberia Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Floarea Ababei",
+    "value": 1
+  },
+  {
+    "name": "Angela Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Olga Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Marcela Stancu",
+    "value": 1
+  },
+  {
+    "name": "Aurora Marin",
+    "value": 1
+  },
+  {
+    "name": "Tudosia Niță",
+    "value": 1
+  },
+  {
+    "name": "Lică Marin",
+    "value": 1
+  },
+  {
+    "name": "Maia Florea",
+    "value": 1
+  },
+  {
+    "name": "Amedeu Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Iuliu Manole",
+    "value": 1
+  },
+  {
+    "name": "Elvira Albu",
+    "value": 1
+  },
+  {
+    "name": "Denis Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Anabela Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Raul Nemeș",
+    "value": 1
+  },
+  {
+    "name": "Jenel Nistor",
+    "value": 1
+  },
+  {
+    "name": "Romanița Florea",
+    "value": 1
+  },
+  {
+    "name": "David Stoica",
+    "value": 1
+  },
+  {
+    "name": "Venera Stancu",
+    "value": 1
+  },
+  {
+    "name": "Estera Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Relu Toma",
+    "value": 1
+  },
+  {
+    "name": "Grigore Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Paulica Ene",
+    "value": 1
+  },
+  {
+    "name": "Andrada Marin",
+    "value": 1
+  },
+  {
+    "name": "Haralamb Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Anica Tudor",
+    "value": 1
+  },
+  {
+    "name": "Salomea Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Cristofor Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Maricica Voinea",
+    "value": 1
+  },
+  {
+    "name": "Alis Dima",
+    "value": 1
+  },
+  {
+    "name": "Severin Stancu",
+    "value": 1
+  },
+  {
+    "name": "Iurie Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Nicolae Toma",
+    "value": 1
+  },
+  {
+    "name": "Teona Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Gregorian Suciu",
+    "value": 1
+  },
+  {
+    "name": "Florica Tudor",
+    "value": 1
+  },
+  {
+    "name": "Florian Barbu",
+    "value": 1
+  },
+  {
+    "name": "Teona Stoica",
+    "value": 1
+  },
+  {
+    "name": "Daiana Florea",
+    "value": 1
+  },
+  {
+    "name": "Claudia Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Iosefina Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Anghel Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Antonela Popescu",
+    "value": 1
+  },
+  {
+    "name": "Voicu Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Lorelei Ababei",
+    "value": 1
+  },
+  {
+    "name": "Giorgian Preda",
+    "value": 1
+  },
+  {
+    "name": "Petruț Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Paulina Toma",
+    "value": 1
+  },
+  {
+    "name": "Albertina Ababei",
+    "value": 1
+  },
+  {
+    "name": "Dora Nemeș",
+    "value": 1
+  },
+  {
+    "name": "Alina Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Speranța Popescu",
+    "value": 1
+  },
+  {
+    "name": "Laurențiu Dochioiu",
+    "value": 1
+  },
+  {
+    "name": "Iancu Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Brândușa Toma",
+    "value": 1
+  },
+  {
+    "name": "Daniela Dinu",
+    "value": 1
+  },
+  {
+    "name": "Bănel Albu",
+    "value": 1
+  },
+  {
+    "name": "Petrică Nistor",
+    "value": 1
+  },
+  {
+    "name": "Stela Marin",
+    "value": 1
+  },
+  {
+    "name": "Iancu Pop",
+    "value": 1
+  },
+  {
+    "name": "Aida Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Nidia Dobre",
+    "value": 1
+  },
+  {
+    "name": "Rica Dumitrescu",
+    "value": 1
+  },
+  {
+    "name": "Dariana Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Aurică Aanei",
+    "value": 1
+  },
+  {
+    "name": "Adina Aanei",
+    "value": 1
+  },
+  {
+    "name": "Elvira Nistor",
+    "value": 1
+  },
+  {
+    "name": "Camelia Tudor",
+    "value": 1
+  },
+  {
+    "name": "Leopoldina Stan",
+    "value": 1
+  },
+  {
+    "name": "Antonie Oprea",
+    "value": 1
+  },
+  {
+    "name": "Dacian Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Petre Suciu",
+    "value": 1
+  },
+  {
+    "name": "Laurenția Tudor",
+    "value": 1
+  },
+  {
+    "name": "Magdalena Ioniță",
+    "value": 1
+  },
+  {
+    "name": "Elisabeta Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Florentin Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Dorian Nistor",
+    "value": 1
+  },
+  {
+    "name": "Miron Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Cornel Stan",
+    "value": 1
+  },
+  {
+    "name": "Severin Manole",
+    "value": 1
+  },
+  {
+    "name": "Constantina Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Rafael Dima",
+    "value": 1
+  },
+  {
+    "name": "Martin Stan",
+    "value": 1
+  },
+  {
+    "name": "Malvina Tudor",
+    "value": 1
+  },
+  {
+    "name": "Melina Manole",
+    "value": 1
+  },
+  {
+    "name": "Carolina Aanei",
+    "value": 1
+  },
+  {
+    "name": "Aurora Voinea",
+    "value": 1
+  },
+  {
+    "name": "Carmen Dinu",
+    "value": 1
+  },
+  {
+    "name": "Suzana Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Arina Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Nicușor Florea",
+    "value": 1
+  },
+  {
+    "name": "Florin Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Adelaida Niță",
+    "value": 1
+  },
+  {
+    "name": "Adelin Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Georgel Dima",
+    "value": 1
+  },
+  {
+    "name": "Anghelina Nistor",
+    "value": 1
+  },
+  {
+    "name": "Irinel Oprea",
+    "value": 1
+  },
+  {
+    "name": "Alexandrina Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Albertina Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Panait Preda",
+    "value": 1
+  },
+  {
+    "name": "Gelu Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Alexandrina Dobre",
+    "value": 1
+  },
+  {
+    "name": "Delia Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Bernard Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Cedrin Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Octavian Dinu",
+    "value": 1
+  },
+  {
+    "name": "Monica Popa",
+    "value": 1
+  },
+  {
+    "name": "Manole Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Angel Niță",
+    "value": 1
+  },
+  {
+    "name": "Silvia Oprea",
+    "value": 1
+  },
+  {
+    "name": "Anton Dima",
+    "value": 1
+  },
+  {
+    "name": "Mitruț Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Anca Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Dorin Oprea",
+    "value": 1
+  },
+  {
+    "name": "Adelaida Stoica",
+    "value": 1
+  },
+  {
+    "name": "Luana Dinu",
+    "value": 1
+  },
+  {
+    "name": "Adela Dumitrescu",
+    "value": 1
+  },
+  {
+    "name": "Alexandru Marin",
+    "value": 1
+  },
+  {
+    "name": "Silvian Ababei",
+    "value": 1
+  },
+  {
+    "name": "Gherghina Nistor",
+    "value": 1
+  },
+  {
+    "name": "Gheorghiță Dumitrescu",
+    "value": 1
+  },
+  {
+    "name": "Dorinel Tudor",
+    "value": 1
+  },
+  {
+    "name": "Lăcrămioara Albu",
+    "value": 1
+  },
+  {
+    "name": "Nechifor Suciu",
+    "value": 1
+  },
+  {
+    "name": "Ada Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Petruț Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Florentina Oprea",
+    "value": 1
+  },
+  {
+    "name": "Nichifor Aanei",
+    "value": 1
+  },
+  {
+    "name": "Melania Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Diana Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Ivan Manole",
+    "value": 1
+  },
+  {
+    "name": "Giorgiana Dinu",
+    "value": 1
+  },
+  {
+    "name": "Vasilica Oprea",
+    "value": 1
+  },
+  {
+    "name": "Mariana Popa",
+    "value": 1
+  },
+  {
+    "name": "Luminița Dochioiu",
+    "value": 1
+  },
+  {
+    "name": "Filip Marin",
+    "value": 1
+  },
+  {
+    "name": "Mitruț Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Eftimie Dinu",
+    "value": 1
+  },
+  {
+    "name": "Bogdana Florea",
+    "value": 1
+  },
+  {
+    "name": "Lioara Barbu",
+    "value": 1
+  },
+  {
+    "name": "Costache Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Codrin Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Zina Preda",
+    "value": 1
+  },
+  {
+    "name": "Liana Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Vasilica Niță",
+    "value": 1
+  },
+  {
+    "name": "Sânziana Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Jasmina Ababei",
+    "value": 1
+  },
+  {
+    "name": "Gențiana Dobre",
+    "value": 1
+  },
+  {
+    "name": "Nadia Tudor",
+    "value": 1
+  },
+  {
+    "name": "Silvian Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Cornelia Ene",
+    "value": 1
+  },
+  {
+    "name": "Adelina Ene",
+    "value": 1
+  },
+  {
+    "name": "Ghenadie Popa",
+    "value": 1
+  },
+  {
+    "name": "Casiana Cristea",
+    "value": 1
+  },
+  {
+    "name": "Anabela Ene",
+    "value": 1
+  },
+  {
+    "name": "Marcheta Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Vladimir Popa",
+    "value": 1
+  },
+  {
+    "name": "Dinu Nistor",
+    "value": 1
+  },
+  {
+    "name": "Maximilian Stancu",
+    "value": 1
+  },
+  {
+    "name": "Carol Aanei",
+    "value": 1
+  },
+  {
+    "name": "Vlădelina Popa",
+    "value": 1
+  },
+  {
+    "name": "Jasmina Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Dimitrina Suciu",
+    "value": 1
+  },
+  {
+    "name": "Beatrice Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Salomea Stoica",
+    "value": 1
+  },
+  {
+    "name": "Dorina Preda",
+    "value": 1
+  },
+  {
+    "name": "Olimpia Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Leonard Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Romulus Cristea",
+    "value": 1
+  },
+  {
+    "name": "Cătălin Popescu",
+    "value": 1
+  },
+  {
+    "name": "Ionel Marin",
+    "value": 1
+  },
+  {
+    "name": "Zaraza Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Crin Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Vlaicu Ene",
+    "value": 1
+  },
+  {
+    "name": "Grațiana Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Antonia Oprea",
+    "value": 1
+  },
+  {
+    "name": "Rafila Ababei",
+    "value": 1
+  },
+  {
+    "name": "Lia Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Dana Manole",
+    "value": 1
+  },
+  {
+    "name": "Veronica Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Violeta Tudor",
+    "value": 1
+  },
+  {
+    "name": "Nadia Florea",
+    "value": 1
+  },
+  {
+    "name": "Haralamb Suciu",
+    "value": 1
+  },
+  {
+    "name": "Sorina Stan",
+    "value": 1
+  },
+  {
+    "name": "Laura Preda",
+    "value": 1
+  },
+  {
+    "name": "Relu Ioniță",
+    "value": 1
+  },
+  {
+    "name": "Eliana Tomescu",
+    "value": 1
+  },
+  {
+    "name": "Flavia Nemeș",
+    "value": 1
+  },
+  {
+    "name": "Anghel Florea",
+    "value": 1
+  },
+  {
+    "name": "Iulia Dochioiu",
+    "value": 1
+  },
+  {
+    "name": "Emil Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Floarea Georgescu",
+    "value": 1
+  },
+  {
+    "name": "Cătălin Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Carol Dinu",
+    "value": 1
+  },
+  {
+    "name": "Bănel Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Norica Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Răducu Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Ilarie Tudor",
+    "value": 1
+  },
+  {
+    "name": "Cătălina Popescu",
+    "value": 1
+  },
+  {
+    "name": "Luminița Cristea",
+    "value": 1
+  },
+  {
+    "name": "Rafael Stoica",
+    "value": 1
+  },
+  {
+    "name": "Sava Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Amedeu Voinea",
+    "value": 1
+  },
+  {
+    "name": "Ionela Dima",
+    "value": 1
+  },
+  {
+    "name": "Clara Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Stana Nistor",
+    "value": 1
+  },
+  {
+    "name": "Heracleea Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Clementina Popescu",
+    "value": 1
+  },
+  {
+    "name": "Cornelia Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Eugenia Dobre",
+    "value": 1
+  },
+  {
+    "name": "Doru Oprea",
+    "value": 1
+  },
+  {
+    "name": "Flora Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Diana Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Eufrosina Cristea",
+    "value": 1
+  },
+  {
+    "name": "Aristița Stoica",
+    "value": 1
+  },
+  {
+    "name": "Iasmina Tudor",
+    "value": 1
+  },
+  {
+    "name": "Mona Oprea",
+    "value": 1
+  },
+  {
+    "name": "Dumitra Aanei",
+    "value": 1
+  },
+  {
+    "name": "Fabian Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Simion Manole",
+    "value": 1
+  },
+  {
+    "name": "Martin Voinea",
+    "value": 1
+  },
+  {
+    "name": "Mariana Preda",
+    "value": 1
+  },
+  {
+    "name": "Carmina Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Ludmila Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Luciana Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Viorica Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Fabian Nistor",
+    "value": 1
+  },
+  {
+    "name": "Ortansa Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Marcheta Stănescu",
+    "value": 1
+  },
+  {
+    "name": "Pompiliu Ababei",
+    "value": 1
+  },
+  {
+    "name": "Cantemir Dinu",
+    "value": 1
+  },
+  {
+    "name": "Basarab Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Octavia Nistor",
+    "value": 1
+  },
+  {
+    "name": "Panait Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Dariana Pop",
+    "value": 1
+  },
+  {
+    "name": "Leana Florea",
+    "value": 1
+  },
+  {
+    "name": "Filip Dima",
+    "value": 1
+  },
+  {
+    "name": "Pătru Suciu",
+    "value": 1
+  },
+  {
+    "name": "Florentina Aanei",
+    "value": 1
+  },
+  {
+    "name": "Zenovia Aanei",
+    "value": 1
+  },
+  {
+    "name": "Florea Stoica",
+    "value": 1
+  },
+  {
+    "name": "Valentina Manole",
+    "value": 1
+  },
+  {
+    "name": "Florica Barbu",
+    "value": 1
+  },
+  {
+    "name": "Artemisa Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Axenia Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Iulia Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Ducu Dochioiu",
+    "value": 1
+  },
+  {
+    "name": "Ion Nemeș",
+    "value": 1
+  },
+  {
+    "name": "Lorelei Nistor",
+    "value": 1
+  },
+  {
+    "name": "Iridenta Cristea",
+    "value": 1
+  },
+  {
+    "name": "Mirela Ioniță",
+    "value": 1
+  },
+  {
+    "name": "Iuliana Florea",
+    "value": 1
+  },
+  {
+    "name": "Roberta Manole",
+    "value": 1
+  },
+  {
+    "name": "Carol Dima",
+    "value": 1
+  },
+  {
+    "name": "Marga Niță",
+    "value": 1
+  },
+  {
+    "name": "Aida Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Ortansa Barbu",
+    "value": 1
+  },
+  {
+    "name": "Fiona Voinea",
+    "value": 1
+  },
+  {
+    "name": "Adrian Stan",
+    "value": 1
+  },
+  {
+    "name": "Nae Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Mugurel Stan",
+    "value": 1
+  },
+  {
+    "name": "Constantin Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Zenovia Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Daciana Stancu",
+    "value": 1
+  },
+  {
+    "name": "Pătru Pop",
+    "value": 1
+  },
+  {
+    "name": "Alida Toma",
+    "value": 1
+  },
+  {
+    "name": "Oliviu Dobre",
+    "value": 1
+  },
+  {
+    "name": "Carla Manole",
+    "value": 1
+  },
+  {
+    "name": "Vicențiu Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Sebastian Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Voichița Manole",
+    "value": 1
+  },
+  {
+    "name": "Lioara Voinea",
+    "value": 1
+  },
+  {
+    "name": "Olga Oprea",
+    "value": 1
+  },
+  {
+    "name": "Hortensia Barbu",
+    "value": 1
+  },
+  {
+    "name": "Ionuț Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Ștefania Dinu",
+    "value": 1
+  },
+  {
+    "name": "Marian Ioniță",
+    "value": 1
+  },
+  {
+    "name": "Valter Dochioiu",
+    "value": 1
+  },
+  {
+    "name": "Carmen Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Leopoldina Manole",
+    "value": 1
+  },
+  {
+    "name": "Adrian Niță",
+    "value": 1
+  },
+  {
+    "name": "Lorin Gheorghiu",
+    "value": 1
+  },
+  {
+    "name": "Carina Manole",
+    "value": 1
+  },
+  {
+    "name": "Constantin Albu",
+    "value": 1
+  },
+  {
+    "name": "Florentin Diaconescu",
+    "value": 1
+  },
+  {
+    "name": "Fabian Tudor",
+    "value": 1
+  },
+  {
+    "name": "Speranța Eftimie",
+    "value": 1
+  },
+  {
+    "name": "Șerban Preda",
+    "value": 1
+  },
+  {
+    "name": "Fabia Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Jana Tudor",
+    "value": 1
+  },
+  {
+    "name": "Cipriana Ene",
+    "value": 1
+  },
+  {
+    "name": "Sofia Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Panagachie Stoica",
+    "value": 1
+  },
+  {
+    "name": "Zenovia Ene",
+    "value": 1
+  },
+  {
+    "name": "Lazăr Toma",
+    "value": 1
+  },
+  {
+    "name": "Elisaveta Tabacu",
+    "value": 1
+  },
+  {
+    "name": "Toma Tudor",
+    "value": 1
+  },
+  {
+    "name": "Codruța Dobre",
+    "value": 1
+  },
+  {
+    "name": "Sergiu Diaconu",
+    "value": 1
+  },
+  {
+    "name": "Gicu Voinea",
+    "value": 1
+  },
+  {
+    "name": "Fiona Marin",
+    "value": 1
+  },
+  {
+    "name": "Basarab Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Severin Ababei",
+    "value": 1
+  },
+  {
+    "name": "Marius Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Pătru Dima",
+    "value": 1
+  },
+  {
+    "name": "Dacian Nistor",
+    "value": 1
+  },
+  {
+    "name": "Teodor Mocanu",
+    "value": 1
+  },
+  {
+    "name": "Cristofor Ene",
+    "value": 1
+  },
+  {
+    "name": "Ecaterina Mazilescu",
+    "value": 1
+  },
+  {
+    "name": "Zenobia Ionescu",
+    "value": 1
+  },
+  {
+    "name": "Romina Stancu",
+    "value": 1
+  },
+  {
+    "name": "Alexe Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Crin Ene",
+    "value": 1
+  },
+  {
+    "name": "Claudia Pușcașu",
+    "value": 1
+  },
+  {
+    "name": "Marta Nistor",
+    "value": 1
+  },
+  {
+    "name": "Robertina Ardelean",
+    "value": 1
+  },
+  {
+    "name": "Flaviu Tudor",
+    "value": 1
+  },
+  {
+    "name": "Bernard Marin",
+    "value": 1
+  }
+]

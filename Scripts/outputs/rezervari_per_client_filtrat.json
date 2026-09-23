@@ -1,0 +1,20 @@
+[
+  {
+    "id_client": 703,
+    "nume_client": "Alma Nistor",
+    "email": "gicupreda@example.net",
+    "numar_rezervari": 9
+  },
+  {
+    "id_client": 574,
+    "nume_client": "Damian Barbu",
+    "email": "fdinu@example.net",
+    "numar_rezervari": 7
+  },
+  {
+    "id_client": 465,
+    "nume_client": "Veronica Niță",
+    "email": "spreda@example.net",
+    "numar_rezervari": 7
+  }
+]

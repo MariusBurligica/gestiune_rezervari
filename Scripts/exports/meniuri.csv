@@ -1,0 +1,11 @@
+id_meniu,cod_meniu,nume_meniu,pret
+1,MN-001,Meniu Traditional Romanesc,57.55
+2,MN-002,Meniu Premium Vita,337.22
+3,MN-003,Meniu Vegetarian,263.40
+4,MN-004,Meniu Vegan,396.62
+5,MN-005,Meniu Copii,298.74
+6,MN-006,Meniu Mediteranean,355.00
+7,MN-007,Meniu Asiatic,234.38
+8,MN-008,Meniu Nunta Clasic,296.66
+9,MN-009,Meniu Botez,238.35
+10,MN-010,Candy Bar Extra,281.61

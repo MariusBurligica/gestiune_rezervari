@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or "Proiect reservation_system" }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="dot"></span>
+      <span>Proiect reservation_system</span>
+    </div>
+
+    <nav class="nav">
+      <a href="{{ url_for('index') }}">Dashboard</a>
+      <a href="{{ url_for('search') }}">Search</a>
+      <div class="nav-sep"></div>
+
+      {% for t, c in site_cfg.items() %}
+        <a href="{{ url_for('crud_list', table=t) }}">{{ c["title"] }}</a>
+      {% endfor %}
+
+      <a href="{{ url_for('sqli_lab') }}" style="color: #ff4c4c; font-weight: bold; margin-left: 15px;">SQLi Lab</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="flash-wrap">
+          {% for category, message in messages %}
+            <div class="flash flash-{{ category }}">{{ message }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <span>Flask + MariaDB</span>
+  </footer>
+</body>
+</html>
